@@ -55,7 +55,7 @@ At this point, you can now access the project in Jupyter.
 jupyter lab
 ```
 
-##Hugging Face Models
+## 5. Hugging Face Models
 ```
 https://huggingface.co/kc928/AI4ALL-UCSF-Reddit-2023-Age
 ```
