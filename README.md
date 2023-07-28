@@ -1,3 +1,9 @@
+#Hugging Face models
+https://huggingface.co/kc928/AI4ALL-UCSF-Reddit-2023-Age
+https://huggingface.co/kc928/AI4ALL-UCSF-Reddit-2023-Gender
+https://huggingface.co/kc928/AI4ALL-UCSF-Reddit-2023-Subject
+
+
 # Setup Instructions
 
 1. Download Repository
