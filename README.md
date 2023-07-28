@@ -66,3 +66,5 @@ https://huggingface.co/kc928/AI4ALL-UCSF-Reddit-2023-Gender
 ```
 https://huggingface.co/kc928/AI4ALL-UCSF-Reddit-2023-Subject
 ```
+## 6. Extra Information
+Keep in mind that there are already labels ready to train the model, but in case you want to use your own data delete the ner_labels.json and classification_labels.json files and begin labelling on your own with the labelling notebooks. 
